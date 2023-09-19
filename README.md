@@ -1,4 +1,8 @@
-# dynamic_inputs
+# Flutter Dynamic Input Fields
+
+
+https://github.com/kainatnaeem/Flutter-Dynamic-Input-Fields/assets/54583829/e19709bd-a001-491f-b67f-f47e2f1bbe2c
+
 
 A new Flutter project.
 
